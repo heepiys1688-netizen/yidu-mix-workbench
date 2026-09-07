@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#16213E" rx="16"/>
+  <circle cx="100" cy="75" r="32" fill="#F7B733"/>
+  <rect x="60" y="115" width="80" height="60" rx="12" fill="#F7B733"/>
+  <text x="100" y="170" font-size="14" fill="#16213E" text-anchor="middle" font-family="sans-serif" font-weight="bold">数字人</text>
+</svg>
